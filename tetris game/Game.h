@@ -1,6 +1,6 @@
 #ifndef _GAME_
 #define _GAME_
-#include "C:\Users\amroz\Desktop\c\tetris game\board\Board.h"
+#include "Board.h"
 #include "Pieces.h"
 #include "IO.h"
 #include <time.h>
